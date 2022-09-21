@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b71a99d3-1624-4ab8-97e8-300f87c521b9" name="172.31.76.93">
+        <fileTransfer rootFolder="/home/jev/codes" accessType="SFTP" host="172.31.76.93" port="22" sshConfigId="b7358f87-3e11-4472-9657-f9a2512db4ae" sshConfig="jev@172.31.76.93:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
